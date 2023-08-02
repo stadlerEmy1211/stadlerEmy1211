@@ -1,0 +1,17 @@
+ - meu nome e **emilly**
+ - tenho **14 anos**
+ - estou interessada em **estudar**
+ - estou procurando colaborar em **pensamento computaciona**
+ - adoro escutar **musicas**
+ - faço aniversario no dia **12\11**
+- no momento estamos em aula de **pensamento computacional**
+- falando nisso , ja aprendemos =
+- **passo a passo de como escovar os dentes**
+- **algoritimo de emprestimo**
+- **criamos uma conta no scratch**
+- **aprendemos os blocos do scratch**
+- no segundo trimentre aprendemos
+- **aprendemos sobre codicos javascript, essa aula foi muito interessante**
+- **codicos da calculadora no p5**
+- admiro muito essa materia , pois tecnoloogia hoje em dia e tudo.
+- 
